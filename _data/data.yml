@@ -77,29 +77,18 @@ projects:
     assignments:
       - title: PWtransport
         link: "https://github.yemeng.site/PWtransport/"
-        tagline: "A quantum transport code based on plane wave pseudopotential DFT calculation and the original PEtot code."
+        tagline: "A quantum transport code based on plane wave pseudopotential 
+        DFT calculation and the original PEtot code."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Large-scale ab initio quantum transport simulation of nanosized 
+        copper interconnects: the effects of defects and quantum interferences"
+        link: "https://doi.org/10.1109/IEDM19573.2019.8993549"
+        authors:  Meng Ye, Xiangwei Jiang, Shu-Shen Li, Lin-Wang Wang 
+        conference: "2019 IEEE International Electron Devices Meeting (IEDM)"
 
 skills:
     title: Skills &amp; Proficiency
