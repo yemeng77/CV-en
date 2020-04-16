@@ -84,7 +84,7 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: "Large-scale ab initio quantum transport simulation of nanosized 
+      - title: "Large-scale <i>ab initio</i> quantum transport simulation of nanosized 
         copper interconnects: the effects of defects and quantum interferences"
         link: "https://doi.org/10.1109/IEDM19573.2019.8993549"
         authors: <b>Meng Ye</b>, Xiangwei Jiang, Shu-Shen Li, Lin-Wang Wang 
@@ -110,7 +110,8 @@ publications:
         Han Zhang, Ying Guo, Yuanyuan Pan, Lin Xiao, Junku Liu, Feng Pan, Jing Lu"
         conference: "ACS Applied Materials & Interfaces 9 (2017), 29273"
 
-      - title: "Carrier Mobility, and Device Performance of Hexagonal Arsenene and Antimonene"
+      - title: "Many-body Effect, Carrier Mobility, and Device Performance of 
+        Hexagonal Arsenene and Antimonene"
         link: "https://doi.org/10.1021/acs.chemmater.6b04909"
         authors: "Yangyang Wang, Pu Huang, <b>Meng Ye</b>, Ruge Quhe, Yuanyuan Pan, 
         Han Zhang, Hongxia Zhong, Junjie Shi, Jing Lu"
