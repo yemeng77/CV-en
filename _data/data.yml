@@ -129,7 +129,7 @@ publications:
         link: "https://doi.org/10.1039/C6CP01866A"
         authors: "Han Zhang, <b>Meng Ye</b>, Yangyang Wang, Ruge Quhe, Yuanyuan Pan, 
         Ying Guo, Zhigang Song, Jinbo Yang, Wanlin Guo, Jing Lu"
-        conference: "Physical Chemistry Chemical Physics 18(2016), 16367"
+        conference: "Physical Chemistry Chemical Physics 18 (2016), 16367"
       
       - title: "Tunable band gap in germanene by surface adsorption"
         link: "https://doi.org/10.1016/j.physe.2013.12.016"
@@ -145,10 +145,13 @@ skills:
         level: 75%
 
       - name: Fortran & MPI
-        level: 70%
+        level: 85%
+
+      - name: CUDA & ROCm
+        level: 25%
 
       - name: Python
-        level: 60%
+        level: 65%
 
       - name: LaTeX
         level: 80%
