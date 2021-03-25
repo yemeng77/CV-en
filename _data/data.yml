@@ -90,7 +90,7 @@ publications:
     intro:
     papers:
       - title: "Large-scale first-principles quantum transport simulations using plane wave basis set on high performance computing platforms"
-        link: "https://authors.elsevier.com/c/1cBfa2OIndhuV"
+        link: "https://doi.org/10.1016/j.cpc.2020.107737"
         authors: "<b>Meng Ye</b>, Xiangwei Jiang, Shu-Shen Li, Lin-Wang Wang"
         conference: "<i>Computer Physics Communications</i> <b>260</b>, 107737 (2021)"
 
